@@ -5,6 +5,6 @@ import LoveCard from "@/app/LoveCard/page.js";
 export default function Home() {
   return (
     
-           <LoveCard></LoveCard>
+          <Products></Products>
   );
 }
